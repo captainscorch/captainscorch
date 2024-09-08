@@ -42,7 +42,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>6729</td>
+    <td>6774</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -62,7 +62,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
-    <td> Vue  PHP  Blade  JavaScript  CSS  HTML  Java  Shell </td>
+    <td> Vue  PHP  Blade  JavaScript  Monkey C  CSS  HTML  Other </td>
   </tr>
   <tr>
     <td>Top 4 most used languages</td>
