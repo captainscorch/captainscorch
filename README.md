@@ -58,7 +58,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>43</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
