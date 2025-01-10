@@ -14,11 +14,12 @@ I'm a self-taught creative with experience in digital media & communication. My 
 const captainscorch = {
     country: "Germany",
     languages: ["German", "English"],
-    codeLanguages: ["HTML", "CSS", "JavaScript", "PHP"],
+    codeLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Liquid"],
     technologies: {
         backend: {
-            php: ["Laravel", "Livewire", "Filament", "Nova", "Jetstream", "Cashier", "Spark"],
+            php: ["Laravel", "Livewire", "Filament", "Nova", "Jetstream", "Cashier", "Spark", "Inertia"],
             js: ["Nuxt"],
+            shopify: ["Liquid", "Hydrogen"]
         },
         frontend: {
             js: ["Vue.js", "Alpine.js"],
