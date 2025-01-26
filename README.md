@@ -80,31 +80,31 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>7590</td>
+    <td>6762</td>
   </tr>
   <tr>
     <td>Opened issues</td>
-    <td>18</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Submitted pull requests</td>
-    <td>72</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Reviewed pull requests</td>
-    <td>14</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>38</td>
+    <td>37</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
-    <td> Vue  PHP  Blade  JavaScript  Monkey C  CSS  HTML  Java </td>
+    <td> Vue  PHP  JavaScript  Blade  Monkey C  CSS  HTML  Java </td>
   </tr>
   <tr>
     <td>Top 4 most used languages</td>
-    <td> Vue  PHP  Blade  Other </td>
+    <td> Vue  PHP  JavaScript  Other </td>
   </tr>
 </table>
 </small>
