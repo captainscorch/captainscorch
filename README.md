@@ -80,7 +80,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>7918</td>
+    <td>7931</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -92,11 +92,11 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Reviewed pull requests</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>34</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
