@@ -38,7 +38,8 @@ const captainscorch = {
       css: ["Tailwind", "Bootstrap"],
     },
     devOps: [
-      "SSH",
+      "CLI",
+      "Git",
       "AWS",
       "Docker",
       "S3",
@@ -49,7 +50,7 @@ const captainscorch = {
       "Forge",
     ],
     databases: ["MySQL", "SQLite", "GraphQL"],
-    misc: ["Git", "Homebrew", "Prompt Engineering"],
+    misc: ["Homebrew", "Prompt Engineering", "Agents", "MCP", "Cursor"],
   },
   designTools: [
     "Figma",
@@ -57,7 +58,6 @@ const captainscorch = {
     "Photoshop",
     "Illustrator",
     "InDesign",
-    "XD",
     "After Effects",
     "Premiere Pro",
   ],
@@ -80,7 +80,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8016</td>
+    <td>8133</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -88,7 +88,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Submitted pull requests</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Reviewed pull requests</td>
@@ -96,7 +96,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>35</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
