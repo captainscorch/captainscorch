@@ -79,7 +79,7 @@ const designTools = [
 // 05 OPEN SOURCE CONTRIBUTIONS
 const openSourceContributions = [
   {
-    repository: "Laravel Cashier",
+    project: "Laravel Cashier",
   },
 ];
 
