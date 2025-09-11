@@ -9,64 +9,87 @@
 
 ### 📃 About me
 
-I'm a self-taught creative with experience in digital media & communication. My passion lies in web development & graphic design with a long-standing interest in photography.
+A self-taught creative with expertise in digital media and communication, my passion lies in web development and graphic design, while photography has been a long-standing interest that has inspired me for years.
 
 ### 💻 Some more details
 
 ```javascript
-const captainscorch = {
-  country: "Germany",
-  languages: ["German", "English"],
-  codeLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Liquid"],
-  technologies: {
-    backend: {
-      php: [
-        "Laravel",
-        "Livewire",
-        "Filament",
-        "Nova",
-        "Jetstream",
-        "Cashier",
-        "Spark",
-        "Inertia",
-      ],
-      js: ["Nuxt"],
-      shopify: ["Liquid", "Hydrogen"],
-    },
-    frontend: {
-      js: ["Vue.js", "Alpine.js"],
-      css: ["Tailwind", "Bootstrap"],
-    },
-    devOps: [
-      "CLI",
-      "Git",
-      "AWS",
-      "Docker",
-      "S3",
-      "EC2",
-      "Nginx",
-      "Node.js",
-      "Envoyer",
-      "Forge",
+// 01 LANGUAGES
+const languages = ["German (native)", "Englisch (professional – C2)"];
+
+// 02 CODE LANGUAGES
+const codeLanguages = ["HTML", "CSS", "JavaScript", "PHP", "Liquid"];
+
+// 03 TECHNOLOGIES
+const technologies = {
+  // Backend
+  backend: {
+    php: [
+      "Laravel",
+      "Livewire",
+      "Filament",
+      "Nova",
+      "Jetstream",
+      "Cashier",
+      "Spark",
+      "Inertia",
     ],
-    databases: ["MySQL", "SQLite", "GraphQL"],
-    misc: ["Homebrew", "Prompt Engineering", "Agents", "MCP", "Cursor"],
+    js: ["Nuxt"],
+    shopify: ["Liquid", "Hydrogen"],
   },
-  designTools: [
-    "Figma",
-    "Adobe CC",
-    "Photoshop",
-    "Illustrator",
-    "InDesign",
-    "After Effects",
-    "Premiere Pro",
+
+  // Frontend
+  frontend: {
+    js: ["Vue.js", "Alpine.js"],
+    css: ["Tailwind", "Bootstrap"],
+  },
+
+  // Dev Ops
+  devOps: [
+    "CLI",
+    "Git",
+    "AWS",
+    "Docker",
+    "S3",
+    "EC2",
+    "Nginx",
+    "Node.js",
+    "Envoyer",
+    "Forge",
   ],
-  managementAndCommunication: [
-    "Team Management",
-    "Project Management",
-    "Client Relations",
-    "Financial and Administrative Oversight",
-  ],
+
+  // Databases
+  databases: ["MySQL", "SQLite", "GraphQL"],
+
+  // Misc
+  misc: ["Homebrew", "Prompt Engineering", "Agents", "MCP", "Cursor"],
+};
+
+// 04 DESIGN TOOLS
+const designTools = [
+  "Figma",
+  "Adobe CC",
+  "Photoshop",
+  "Illustrator",
+  "InDesign",
+  "After Effects",
+  "Premiere Pro",
+];
+
+// 05 OPEN SOURCE CONTRIBUTIONS
+const openSourceContributions = [
+  {
+    repository: "Laravel Cashier",
+  },
+];
+
+// Export everything
+export {
+  languages,
+  codeLanguages,
+  technologies,
+  designTools,
+  openSourceContributions,
 };
 ```
 
@@ -80,7 +103,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8133</td>
+    <td>8198</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -100,7 +123,7 @@ const captainscorch = {
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
-    <td> Vue  PHP  JavaScript  Blade  Monkey C  CSS  HTML  Java </td>
+    <td> Vue  PHP  JavaScript  Blade  Monkey C  CSS  HTML  Other </td>
   </tr>
   <tr>
     <td>Top 4 most used languages</td>
