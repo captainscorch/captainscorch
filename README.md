@@ -32,16 +32,16 @@ const technologies = {
       "Jetstream",
       "Cashier",
       "Spark",
-      "Inertia",
+      "Inertia"
     ],
     js: ["Nuxt"],
-    shopify: ["Liquid", "Hydrogen"],
+    shopify: ["Liquid", "Hydrogen", "Oxygen"],
   },
 
   // Frontend
   frontend: {
     js: ["Vue.js", "Alpine.js"],
-    css: ["Tailwind", "Bootstrap", "shadcn/ui"],
+    css: ["Tailwind", "Bootstrap"],
   },
 
   // Dev Ops
@@ -56,7 +56,7 @@ const technologies = {
     "Nginx",
     "Node.js",
     "Envoyer",
-    "Forge",
+    "Forge"
   ],
 
   // Databases
@@ -69,7 +69,7 @@ const technologies = {
     "Agents",
     "MCP",
     "Cursor",
-    "OpenAI API",
+    "OpenAI API"
   ]
 };
 
@@ -81,7 +81,7 @@ const designTools = [
   "Illustrator",
   "InDesign",
   "After Effects",
-  "Premiere Pro",
+  "Premiere Pro"
 ];
 
 // 05 ANALYTICS
@@ -94,7 +94,7 @@ analytics: [
   "Conversions API",
   "Microsoft Clarity",
   "Meta Pixel",
-  "Hotjar",
+  "Hotjar"
 ],
 
 // 05 OPEN SOURCE CONTRIBUTIONS
@@ -111,7 +111,7 @@ export {
   technologies,
   designTools,
   analytics,
-  openSourceContributions,
+  openSourceContributions
 };
 ```
 
@@ -125,7 +125,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8217</td>
+    <td>8275</td>
   </tr>
   <tr>
     <td>Opened issues</td>
