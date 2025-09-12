@@ -41,13 +41,14 @@ const technologies = {
   // Frontend
   frontend: {
     js: ["Vue.js", "Alpine.js"],
-    css: ["Tailwind", "Bootstrap"],
+    css: ["Tailwind", "Bootstrap", "shadcn/ui"],
   },
 
   // Dev Ops
   devOps: [
     "CLI",
     "Git",
+    "CI/CD",
     "AWS",
     "Docker",
     "S3",
@@ -62,7 +63,26 @@ const technologies = {
   databases: ["MySQL", "SQLite", "GraphQL"],
 
   // Misc
-  misc: ["Homebrew", "Prompt Engineering", "Agents", "MCP", "Cursor"],
+  misc: [
+    "Homebrew",
+    "Prompt Engineering",
+    "Agents",
+    "MCP",
+    "Cursor",
+    "OpenAI API",
+  ],
+
+  analytics: [
+    "Google Analytics",
+    "Google Tag Manager",
+    "Google Search Console",
+    "Google Lighthouse",
+    "PageSpeed Insights",
+    "Conversions API",
+    "Microsoft Clarity",
+    "Meta Pixel",
+    "Hotjar",
+  ],
 };
 
 // 04 DESIGN TOOLS
@@ -103,7 +123,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8200</td>
+    <td>8211</td>
   </tr>
   <tr>
     <td>Opened issues</td>
