@@ -79,7 +79,7 @@ const designTools = [
 // 05 OPEN SOURCE CONTRIBUTIONS
 const openSourceContributions = [
   {
-    repository: "Laravel Cashier",
+    project: "Laravel Cashier",
   },
 ];
 
@@ -103,7 +103,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8198</td>
+    <td>8200</td>
   </tr>
   <tr>
     <td>Opened issues</td>
