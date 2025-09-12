@@ -70,19 +70,7 @@ const technologies = {
     "MCP",
     "Cursor",
     "OpenAI API",
-  ],
-
-  analytics: [
-    "Google Analytics",
-    "Google Tag Manager",
-    "Google Search Console",
-    "Google Lighthouse",
-    "PageSpeed Insights",
-    "Conversions API",
-    "Microsoft Clarity",
-    "Meta Pixel",
-    "Hotjar",
-  ],
+  ]
 };
 
 // 04 DESIGN TOOLS
@@ -95,6 +83,19 @@ const designTools = [
   "After Effects",
   "Premiere Pro",
 ];
+
+// 05 ANALYTICS
+analytics: [
+  "Google Analytics",
+  "Google Tag Manager",
+  "Google Search Console",
+  "Google Lighthouse",
+  "PageSpeed Insights",
+  "Conversions API",
+  "Microsoft Clarity",
+  "Meta Pixel",
+  "Hotjar",
+],
 
 // 05 OPEN SOURCE CONTRIBUTIONS
 const openSourceContributions = [
@@ -109,6 +110,7 @@ export {
   codeLanguages,
   technologies,
   designTools,
+  analytics,
   openSourceContributions,
 };
 ```
@@ -123,7 +125,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8211</td>
+    <td>8217</td>
   </tr>
   <tr>
     <td>Opened issues</td>
