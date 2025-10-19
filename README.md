@@ -141,7 +141,7 @@ export {
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>31</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
