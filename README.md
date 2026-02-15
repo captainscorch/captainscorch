@@ -125,7 +125,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>8957</td>
+    <td>9041</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -145,11 +145,11 @@ export {
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
-    <td> Vue  PHP  JavaScript  Blade  Monkey C  CSS  HTML  Other </td>
+    <td> Vue  PHP  Blade  JavaScript  CSS  Monkey C  TypeScript  Other </td>
   </tr>
   <tr>
     <td>Top 4 most used languages</td>
-    <td> Vue  PHP  JavaScript  Other </td>
+    <td> Vue  PHP  Blade  Other </td>
   </tr>
 </table>
 </small>
