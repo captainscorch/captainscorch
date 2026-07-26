@@ -125,7 +125,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>10153</td>
+    <td>10545</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -141,7 +141,7 @@ export {
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>40</td>
+    <td>43</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
