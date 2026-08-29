@@ -115,10 +115,10 @@ const analytics = [
   "PageSpeed Insights",
   "Conversions API",
   "Google Consent Mode",
+  "Cloudflare Web Analytics",
   "Microsoft Clarity",
   "Meta Pixel",
   "Hotjar",
-  "Cloudflare Web Analytics",
 ];
 
 // 06 OPEN SOURCE CONTRIBUTIONS
