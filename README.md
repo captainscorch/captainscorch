@@ -15,10 +15,19 @@ A self-taught creative with expertise in digital media and communication, my pas
 
 ```javascript
 // 01 LANGUAGES
-const languages = ["German (native)", "Englisch (professional – C2)"];
+const languages = ["German (native)", "English (professional, C2)"];
 
 // 02 CODE LANGUAGES
-const codeLanguages = ["HTML", "CSS", "JavaScript", "PHP", "Liquid"];
+const codeLanguages = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+  "PHP",
+  "Blade",
+  "Liquid",
+  "SQL",
+];
 
 // 03 TECHNOLOGIES
 const technologies = {
@@ -26,37 +35,48 @@ const technologies = {
   backend: {
     php: [
       "Laravel",
+      "Statamic",
       "Livewire",
       "Filament",
       "Nova",
       "Jetstream",
       "Cashier",
       "Spark",
-      "Inertia"
+      "Inertia",
+      "Horizon",
+      "PHPUnit",
     ],
     js: ["Nuxt"],
-    shopify: ["Liquid", "Hydrogen", "Oxygen"],
+    shopify: ["Liquid", "Hydrogen (React)", "Oxygen", "Sanity"],
   },
 
   // Frontend
   frontend: {
-    js: ["Vue.js", "Alpine.js"],
-    css: ["Tailwind", "Bootstrap"],
+    js: ["Vue.js", "Alpine.js", "GSAP", "Three.js"],
+    css: ["Tailwind", "shadcn-vue", "Bootstrap"],
   },
+
+  // Mobile
+  mobile: ["Capacitor", "iOS", "Xcode", "TestFlight", "Swift (native plugins)"],
 
   // Dev Ops
   devOps: [
     "CLI",
     "Git",
+    "GitHub Actions",
     "CI/CD",
     "AWS",
+    "Hetzner",
+    "Cloudflare",
     "Docker",
     "S3",
     "EC2",
     "Nginx",
     "Node.js",
+    "Vite",
+    "Valet",
     "Envoyer",
-    "Forge"
+    "Forge",
   ],
 
   // Databases
@@ -68,9 +88,11 @@ const technologies = {
     "Prompt Engineering",
     "Agents",
     "MCP",
+    "Claude Code (CLI)",
+    "Claude API",
+    "OpenAI API",
     "Cursor",
-    "OpenAI API"
-  ]
+  ],
 };
 
 // 04 DESIGN TOOLS
@@ -81,23 +103,25 @@ const designTools = [
   "Illustrator",
   "InDesign",
   "After Effects",
-  "Premiere Pro"
+  "Premiere Pro",
 ];
 
 // 05 ANALYTICS
-analytics: [
+const analytics = [
   "Google Analytics",
   "Google Tag Manager",
   "Google Search Console",
   "Google Lighthouse",
   "PageSpeed Insights",
   "Conversions API",
+  "Google Consent Mode",
   "Microsoft Clarity",
   "Meta Pixel",
-  "Hotjar"
-],
+  "Hotjar",
+  "Cloudflare Web Analytics",
+];
 
-// 05 OPEN SOURCE CONTRIBUTIONS
+// 06 OPEN SOURCE CONTRIBUTIONS
 const openSourceContributions = [
   {
     project: "Laravel Cashier",
