@@ -124,6 +124,9 @@ const analytics = [
 // 06 OPEN SOURCE CONTRIBUTIONS
 const openSourceContributions = [
   {
+    project: "Omarchy (omarchy.org, Omarchy Design team)",
+  },
+  {
     project: "Laravel Cashier",
   },
 ];
