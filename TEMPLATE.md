@@ -1,15 +1,15 @@
 # Hi there, I'm Daniel ✌️
 
-<p><em>Design Engineer & Co-Founder of <a href="https://unlimited.studio">unlimited.studio</em></p>
+<p><em>Design Engineer & Co-Founder of <a href="https://unlimited.studio">unlimited.studio</a></em></p>
 
 [![Twitter](https://img.shields.io/twitter/follow/captainscorch?label=Follow)](https://x.com/intent/follow?screen_name=captainscorch)
-[![Linkedin](https://img.shields.io/badge/Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-schmier-6a2557149/)](https://www.linkedin.com/in/daniel-schmier-6a2557149/)
+[![Linkedin](https://img.shields.io/badge/Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/captainscorch/)](https://www.linkedin.com/in/captainscorch/)
 ![GitHub](https://img.shields.io/github/followers/captainscorch?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-2ab193.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://captainscor.ch)](https://captainscor.ch)
 
 ### 📃 About me
 
-A self-taught creative with expertise in digital media and communication, my passion lies in web development and graphic design, while photography has been a long-standing interest that has inspired me for years.
+A self-taught creative with expertise in digital media and communication. My passion lies where design meets code, and photography has been a long-standing interest that has inspired me for years.
 
 ### 💻 Some more details
 
@@ -52,9 +52,12 @@ const technologies = {
 
   // Frontend
   frontend: {
-    js: ["Vue.js", "Alpine.js", "GSAP", "Three.js"],
+    js: ["Vue.js", "React", "Astro", "Alpine.js"],
     css: ["Tailwind", "shadcn-vue", "Bootstrap"],
   },
+
+  // Motion
+  motion: ["Remotion", "GSAP", "Three.js"],
 
   // Mobile
   mobile: ["Capacitor", "iOS", "Xcode", "TestFlight", "Swift (native plugins)"],
@@ -62,6 +65,7 @@ const technologies = {
   // Dev Ops
   devOps: [
     "CLI",
+    "Homebrew",
     "Git",
     "GitHub Actions",
     "CI/CD",
@@ -82,15 +86,14 @@ const technologies = {
   // Databases
   databases: ["MySQL", "SQLite", "GraphQL"],
 
-  // Misc
-  misc: [
-    "Homebrew",
-    "Prompt Engineering",
-    "Agents",
-    "MCP",
+  // AI
+  ai: [
     "Claude Code (CLI)",
     "Claude API",
     "OpenAI API",
+    "Agents",
+    "MCP",
+    "Prompt Engineering",
     "Cursor",
   ],
 };
@@ -124,7 +127,7 @@ const analytics = [
 // 06 OPEN SOURCE CONTRIBUTIONS
 const openSourceContributions = [
   {
-    project: "Omarchy (omarchy.org, Omarchy Design team)",
+    project: "Omarchy (omarchy.org)",
   },
   {
     project: "Laravel Cashier",
