@@ -155,7 +155,7 @@ export {
   </tr>
   <tr>
     <td>Pushed commits</td>
-    <td>18697</td>
+    <td>19901</td>
   </tr>
   <tr>
     <td>Opened issues</td>
@@ -163,7 +163,7 @@ export {
   </tr>
   <tr>
     <td>Submitted pull requests</td>
-    <td>72</td>
+    <td>73</td>
   </tr>
   <tr>
     <td>Reviewed pull requests</td>
@@ -171,11 +171,11 @@ export {
   </tr>
   <tr>
     <td>Contributed to public repositories</td>
-    <td>62</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Top 8 most used languages</td>
-    <td> HTML  Vue  PHP  JavaScript  Swift  TypeScript  Monkey C  Other </td>
+    <td> HTML  Vue  PHP  JavaScript  TypeScript  Swift  Shell  Other </td>
   </tr>
   <tr>
     <td>Top 4 most used languages</td>
